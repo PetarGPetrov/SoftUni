@@ -7,7 +7,7 @@ import java.util.List;
 
 public class Exercise_05_Line_Numbers {
     public static void main(String[] args) throws IOException {
-        String mainPath = "C:\\Users\\Petar\\Desktop\\Java Practice\\SoftUni- Practice\\04. Java-Advanced-Files-and-Streams-Exercises-Resources";         // this is the path to the main folder
+        String mainPath = "C:\\Users\\Petar\\Desktop\\Java Practice\\SoftUni- Practice\\04. Java-Advanced-Files-and-Streams-Exercises-Resources";      
         String inputPath = mainPath + "\\inputLineNumbers.txt";  
         String outputPath = mainPath + "\\05.LineNumbers.txt";  
 
