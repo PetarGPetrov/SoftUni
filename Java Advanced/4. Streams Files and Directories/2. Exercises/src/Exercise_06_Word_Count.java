@@ -10,7 +10,7 @@ public class Exercise_06_Word_Count {
 
       
 
-        String mainPath = "C:\\Users\\Petar\\Desktop\\Java Practice\\SoftUni- Practice\\04. Java-Advanced-Files-and-Streams-Exercises-Resources";         // this is the path to the main folder
+        String mainPath = "C:\\Users\\Petar\\Desktop\\Java Practice\\SoftUni- Practice\\04. Java-Advanced-Files-and-Streams-Exercises-Resources";         
 
         String inputPath2 = mainPath + "\\words.txt";
 

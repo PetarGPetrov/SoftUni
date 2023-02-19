@@ -8,7 +8,7 @@ import java.util.List;
 public class Exercise_03_All_Capitals {
     public static void main(String[] args) throws IOException {
 
-        String mainPath = "C:\\Users\\Petar\\Desktop\\Java Practice\\SoftUni- Practice\\04. Java-Advanced-Files-and-Streams-Exercises-Resources";         // this is the path to the main folder
+        String mainPath = "C:\\Users\\Petar\\Desktop\\Java Practice\\SoftUni- Practice\\04. Java-Advanced-Files-and-Streams-Exercises-Resources";         
         String inputPath = mainPath + "\\input.txt";  
         String outputPath = mainPath + "\\03.AllCapital!.txt";  
 

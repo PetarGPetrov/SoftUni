@@ -11,7 +11,7 @@ import java.util.List;
 public class Exercise_07_Merge_Two_Files {
     public static void main(String[] args) throws IOException {
 
-        String mainPath = "C:\\Users\\Petar\\Desktop\\Java Practice\\SoftUni- Practice\\04. Java-Advanced-Files-and-Streams-Exercises-Resources";         // this is the path to the main folder
+        String mainPath = "C:\\Users\\Petar\\Desktop\\Java Practice\\SoftUni- Practice\\04. Java-Advanced-Files-and-Streams-Exercises-Resources";        
         String inputPath = mainPath + "\\inputOne.txt";  
         String inputPath2 = mainPath + "\\inputTwo.txt";
         String outputPath = mainPath + "\\07.MergeTwoFiles.txt"; 
